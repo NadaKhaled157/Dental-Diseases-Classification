@@ -1,4 +1,4 @@
-# Dental Images Classification
+# Dental Diseases Classification
 <p align="justify">The task involves classifying dental and oral cavity images into seven disease categories using a deep learning model (CNN Architecture). These diseases often present visually distinguishable symptoms but can be misidentified without expert knowledge. Automation via image classification enhances diagnostic speed and accessibility.</p>
 
 ## Preprocessing
