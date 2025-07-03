@@ -14,5 +14,10 @@ Image normalization and augmentation was implemented.
 - Output Layer: Softmax for multi-class classification (7 classes).
 
 ## Results
-Accuracy is 90%
+Accuracy is 94%
+
+![image](https://github.com/user-attachments/assets/7a97b53e-72a7-4d60-a78e-8fbc5172ed38)
+![image](https://github.com/user-attachments/assets/916fdc84-4326-46ff-9379-0bc68202e83f)
+
+
 
