@@ -19,5 +19,10 @@ Accuracy is 94%
 ![image](https://github.com/user-attachments/assets/7a97b53e-72a7-4d60-a78e-8fbc5172ed38)
 ![image](https://github.com/user-attachments/assets/916fdc84-4326-46ff-9379-0bc68202e83f)
 
+## Deployment of a Pretrained ImageResNetV4 Model
+<img width="875" height="1268" alt="image" src="https://github.com/user-attachments/assets/fb0e79a5-bb11-4dcc-9d94-cb9bb3fe63ec" />
+<img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/163e909d-aa1a-4fd7-80de-0158689d9b18" />
+
+
 
 
